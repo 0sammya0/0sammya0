@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sâmmya!
-- 👀 I’m interested in C, C++, C# and another languages.
-- 🌱 I’m currently learning Haskell and C#, but I pretend to improve Ruby, Java, Javascript, CSS etc.
+- 👋 Hi, I’m Sâmmya! I'm 19 and I'm a Computer Science's undergraduate at Universidade Federal de Sergipe. 
+- 👀 I’m interested in front-end languages.
+- 🌱 I’m currently learning Haskell and C#, but I pretend to improve Ruby, Java, Javascript, CSS .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
