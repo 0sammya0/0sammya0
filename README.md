@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sâmmya! I'm 19 and I'm a Computer Science's undergraduate at Universidade Federal de Sergipe. 
+- 👋 Olá, eu me chamo Sâmmya, tenho 19 anos e sou uma estudante de Ciência da Computação pela Universidade Federal de Sergipe. 
 - 👀 I’m interested in front-end languages.
 - 🌱 I’m currently learning Haskell and C#, but I pretend to improve Ruby, Java, Javascript, CSS .
 - 💞️ I’m looking to collaborate on ...
