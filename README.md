@@ -1,2 +1,4 @@
 - 👋 Olá, me chamo Sâmmya, sou estudante de Ciência da Computação pela Universidade Federal de Sergipe.
 - Atualmente, estou no 5º período da faculdade, aprendendo as linguagens Java e Haskell.
+- Além disso, conheço um pouco de Python, C e HTML.
+- Aqui, você verá os meus futuros projetos. :)
