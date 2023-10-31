@@ -1,4 +1,4 @@
-- 👋 Oi, me chamo Sâmmya e sou estudante de Ciência da Computação pela Universidade Federal de Sergipe :)
+- 👋 Oi, me chamo Sâmmya, sou estudante de Ciência da Computação pela Universidade Federal de Sergipe e aspirante à desenvolvedora Front-End.
 - Atualmente, estou no 5º período da faculdade, aprendendo as linguagens Java e Haskell.
 - Além disso, conheço um pouco de Python, C e HTML.
 - Aqui, você verá os meus futuros projetos. :)
