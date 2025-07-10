@@ -1,4 +1,4 @@
 - 👋 Oi, me chamo Sâmmya, sou estudante de Ciência da Computação pela UFS e aspirante à desenvolvedora Front-End.
-- Atualmente, estou no 5º período da faculdade, aprendendo as linguagens Java e Haskell.
+- Atualmente, estou aprendendo a linguagem Java.
 - Além disso, conheço um pouco de Python, C e HTML.
 - Aqui, você verá os meus futuros projetos. :)
